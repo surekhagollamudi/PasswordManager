@@ -1,0 +1,12 @@
+.passwordmanager-logo {
+  height: 100px;
+  width: 300px;
+}
+.password-bg-logo {
+  height: 200px;
+  width: 40vh;
+}
+.password-enter-container {
+  display: flex;
+  justify-content: space-around;
+}
